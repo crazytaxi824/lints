@@ -46,7 +46,7 @@ eslint-config-airbnb-base // js 专用 lint
     "node": true,
     "browser": true,
     "es6": true,
-    "jest": true
+    // "jest/global": true
   },
   "plugins": ["@typescript-eslint", "jest", "promise"],
   // parser config
@@ -127,11 +127,11 @@ eslint-config-airbnb-base // js 专用 lint
     ]
   },
   // VVI set jest version
-  "settings": {
-    "jest": {
-      "version": 27
-    }
-  },
+  // "settings": {
+  //   "jest": {
+  //     "version": 27
+  //   }
+  // },
   "overrides": [
     {
       "files": ["*.js"],
