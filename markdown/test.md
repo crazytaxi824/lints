@@ -52,6 +52,6 @@ func main() {
 
 ## HTML 测试
 
-<div style="background-color:red; color:white">test</div>
+<div style="background-color:red; color:grey">test</div>
 
 
