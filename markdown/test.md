@@ -25,6 +25,20 @@ function main() {
 }
 ```
 
+golang
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+  // this is comments
+  fmt.Println("hello")
+}
+```
+
+
 ![reflog](https://user-images.githubusercontent.com/16500384/129659561-5843a431-744a-4402-b8cf-9ac85e79d96e.gif)
 
 
