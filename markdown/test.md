@@ -46,3 +46,12 @@ func main() {
 
 
 ![test](.test.assets/reflog.gif)
+
+
+----
+
+## HTML 测试
+
+<div style="background-color:red; color:white">test</div>
+
+
